@@ -1,7 +1,6 @@
 # DevFitness - Jornada .NET Direto ao Ponto
 
 Foi desenvolvida uma API REST completa de gerenciamento de refeições e informações calóricas delas, junto com os dados do usuário.
-Além disso, na Aula 2 foi desenvolvida uma aplicação Console completa, utilizando os conceitos de fundamentos de C#, Listas e Programação Orientada a Objetos.
 
 ## Tecnologias e práticas utilizadas
 
